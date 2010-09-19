@@ -1,7 +1,7 @@
 When Has Its
 ============
 
-Test better.
+Better tests.
 
 Philosophy
 ----------
